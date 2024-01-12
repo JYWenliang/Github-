@@ -1,7 +1,7 @@
 #gihub的使用
 ###1.github网站登不上去解决方式
 在我们尝试访问国内的github网站时，常常会遇到这样的问题：
-![Alt text](img/FXJXO5[K$LV5RC(D]4G`Y5T.png)
+![Alt text](<FXJXO5[K$LV5RC(D]4G`Y5T.png>)
 1. win+R,输入cmd，打开命令提示符，使用ping命令
 ```
 ping github.com
